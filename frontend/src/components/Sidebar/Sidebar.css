@@ -1,0 +1,37 @@
+.sidebar{
+    display: flex;
+    flex-direction:column;
+    border-right:2px solid grey;
+}
+
+.user{
+    border:2px solid grey;
+    border-radius:60px;
+    padding:5px;
+    margin-right:50px;
+    display:flex;
+    flex-direction: row;
+    margin-left:20px;
+    /* justify-content: center; */
+}
+.tentimg{
+    width: 80px;
+    height: 80px;
+    border-radius: 28px;
+}
+.list{
+    padding:5px;
+    margin-top: 50px;
+    margin-left:40px;
+    align-items: center;
+}
+.item{
+    margin-top:30px;
+}
+.listspan{
+    font-weight: bold;
+    margin-left: 5px;
+}
+.item .icon{
+    font-size:20px;
+}

@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+.content{
+  display: flex;
+  flex-direction: row;
+}
+.side{
+  flex:1;
+  padding:40px;
+}
+.hello{
+  flex:3;
+}
