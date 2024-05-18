@@ -1,0 +1,27 @@
+.upcoming{
+    margin-right:10px;
+    margin-left: 40px;
+}
+.upcomingtrip{
+    font-weight: bold;
+    font-size: 30px;
+}
+.upcoming .Tripimg{
+    margin-top: 20px;
+    height: 250px;
+    border-radius: 10%;
+    width: 400px;
+}
+.react-calendar{
+    margin-top:40px;
+    margin-left: 20px;
+}
+.react-calendar__tile--active {
+    background-color: transparent !important;
+    color:black;
+}
+.highlighted_item {
+    background-color: #5F9BE3 !important;
+    border-radius: 50%;
+    color:white !important;
+}
