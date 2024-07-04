@@ -1,4 +1,6 @@
 # Trip Trouve AI
+## Trip Trouve Figma Link:
+https://www.figma.com/file/ldRFxNj0EHNQk9vmw5v7n0/BonVoyage---Travel-Planner-(Community)?type=design&node-id=0%3A1&mode=design&t=G2oue6HQMPKAQglV-1
 
 ## Trip Trouve AI bot
 
